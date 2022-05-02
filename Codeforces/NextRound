@@ -1,0 +1,4 @@
+s = input().split()
+p = input().split()
+for i in p:
+    
